@@ -1,10 +1,10 @@
-title: Hyde
+title: YOONWOO AHN
 description: >-
-  Build your own portfolio <br>
-  with Hyde.
-url: "https://chemistryx.me"
-github: ChemistryX
-email: changeme@chemistryx.me
+  BackEnd Developer
+  JAVA/Spring Framework
+url: "https://github.com/uuuuuunu"
+github: uuuuuunu
+email: 2019036123@cbnu.ac.kr
 google_analytics: <YOUR UA TOKEN>
 
 exclude: [README.md, Gemfile, Gemfile.lock]
