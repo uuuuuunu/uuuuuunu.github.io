@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="82536eb2-0221-4f11-b0bc-45ff50ce7852" name="Changes" comment="project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_projects/실시간 아두이노 원격 재배 시스템.md" beforeDir="false" afterPath="$PROJECT_DIR$/_projects/실시간 아두이노 원격 재배 시스템.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_projects/중고거래 커뮤니티 웹사이트.md" beforeDir="false" afterPath="$PROJECT_DIR$/_projects/중고거래 커뮤니티 웹사이트.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +29,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/uuuuuunu.github.io/_projects&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/toy&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -47,21 +49,6 @@
       <recent name="C:\uuuuuunu.github.io\assets\images\portfolio" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="uuuuuunu.github.io" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="uuuuuunu.github.io" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -72,6 +59,8 @@
       <updated>1689662575159</updated>
       <workItem from="1689662577549" duration="7116000" />
       <workItem from="1689669784994" duration="357000" />
+      <workItem from="1689689388704" duration="683000" />
+      <workItem from="1695271817567" duration="367000" />
     </task>
     <task id="LOCAL-00001" summary="2">
       <created>1689666210023</created>
